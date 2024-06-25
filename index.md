@@ -126,7 +126,7 @@ https://jtp.io/jobim-2024
 
 - Navigating the Jupyter Landscape
   - JupyterCon 2023 (Paris)
-  - Jeremy Tuloup, Johan Mabille 
+  - Jeremy Tuloup, Johan Mabille
   - https://www.youtube.com/watch?v=uWJ0-OPKTxI
 
 ---
@@ -334,6 +334,20 @@ https://jupyterlite.github.io/demo/
 
 
 ![](https://github.com/jtpio/alposs-2024/assets/591645/9e19fcea-4f17-4bd4-a83a-9eb548bd9968)
+
+---
+
+# :test_tube: Current developments
+
+- A in-browser terminal for JupyterLite
+- AI code completions and chat
+- Real Time Collaboration
+
+---
+
+# :sparkles: Demo :sparkles:
+
+https://jtpio.github.io/jobim-2024/lite
 
 ---
 
