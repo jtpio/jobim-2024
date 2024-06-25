@@ -317,6 +317,7 @@ https://github.com/rowanc1/myst-lite
 - Paris Saclay: https://jupyter.gitlab.dsi.universite-paris-saclay.fr/tutoriel-jupyter/utiliser.html
 - UC Berkeley
 - LabNBook (Université Grenoble Alpes): https://labnbook.fr/les-labdocs-code-sont-disponibles-dans-labnbook-integration-de-jupyterlite/
+- Grenoble INP UGA Phelma: https://phelma-sicom.gricad-pages.univ-grenoble-alpes.fr/1a/3pmpols6-cours/TD_1.html
 
 ---
 
