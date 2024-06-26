@@ -380,9 +380,9 @@ https://jupyterlite.github.io/demo/
 
 # :test_tube: Current developments
 
-- A in-browser terminal for JupyterLite
+- In-browser terminal
 - AI code completions and chat
-- Real Time Collaboration
+- Real Time Collaboration via WebRTC
 
 ---
 
