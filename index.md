@@ -166,6 +166,14 @@ https://jtp.io/jobim-2024
 
 ---
 
+# Wasm powered Jupyter running in the browser
+
+- https://developer.mozilla.org/en-US/docs/WebAssembly
+
+![center h:400px](https://user-images.githubusercontent.com/591645/162831191-16956085-783a-435e-b810-0d25da1379b3.png)
+
+---
+
 ![bg fit 75%](./img/jupyterlite.svg)
 
 ---
@@ -267,6 +275,30 @@ jupyter lite build
 </div>
 </div>
 
+
+---
+
+# Easy to deploy
+
+Served via well-cacheable, static HTTP(S) on most static web hosts
+
+<div class="columns">
+<div>
+
+![center width:256](https://user-images.githubusercontent.com/591645/120675034-00f29080-c495-11eb-928c-26bb94e8eb68.png)
+![center width:256](https://user-images.githubusercontent.com/591645/120676545-6dba5a80-c496-11eb-9b2b-604e92c3429b.png)
+![center width:256](https://user-images.githubusercontent.com/591645/120675516-6f375300-c495-11eb-819c-d6f1fb3cb0f1.png)
+
+</div>
+<div>
+
+![center width:256](https://user-images.githubusercontent.com/591645/120676313-2df37300-c496-11eb-8639-25e2fc606850.png)
+![center width:256](https://user-images.githubusercontent.com/591645/236239105-d00f05df-ee79-4062-a0a8-f0f0118bbe1d.png)
+![center h:128](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png)
+
+</div>
+</div>
+
 ---
 
 # Use cases
@@ -283,6 +315,15 @@ jupyter lite build
 >
 </iframe>
 ```
+
+---
+
+<iframe
+  src="https://jtp.io/jobim-2024/lite/repl/index.html?kernel=python&toolbar=1"
+  width="100%"
+  height="500px"
+>
+</iframe>
 
 ---
 
