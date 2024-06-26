@@ -41,7 +41,7 @@ jobs:
       - name: Build the JupyterLite demo
         run: |
           cd demo
-          jupyter lite build --output-dir dist
+          jupyter lite build --contents contents --output-dir dist
           mv dist ../public/lite
 
       - name: Upload artifact
