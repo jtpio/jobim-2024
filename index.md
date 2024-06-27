@@ -412,6 +412,18 @@ https://jtpio.github.io/jobim-2024/lite
 
 ---
 
+# :sparkles: AI code completions and chat
+
+<video
+  controls
+  width="100%"
+  height="600px"
+  src="https://github.com/jupyterlite/jupyterlab-codestral/assets/591645/855c4e3e-3a63-4868-8052-5c9909922c21">
+
+</video>
+
+---
+
 # 🔍 References
 
 - Jupyter documentation: https://docs.jupyter.org
