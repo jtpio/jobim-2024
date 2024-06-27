@@ -174,6 +174,16 @@ https://jtp.io/jobim-2024
 
 ---
 
+# Python in the browser
+
+![center h:200px](https://github.com/jtpio/jobim-2024/assets/591645/771dc6ca-8ae3-418a-8368-f036df0ffbd6)
+
+- Pyodide
+- CPython compiled to WebAssembly
+- Xeus Python + Emscripten Forge
+
+---
+
 ![bg fit 75%](./img/jupyterlite.svg)
 
 ---
@@ -352,13 +362,22 @@ https://github.com/rowanc1/myst-lite
 
 ---
 
-# Education
+# 🎓 Education
 
 - Capytale: https://capytale.fr
 - Paris Saclay: https://jupyter.gitlab.dsi.universite-paris-saclay.fr/tutoriel-jupyter/utiliser.html
 - UC Berkeley
 - LabNBook (Université Grenoble Alpes): https://labnbook.fr/les-labdocs-code-sont-disponibles-dans-labnbook-integration-de-jupyterlite/
 - Grenoble INP UGA Phelma: https://phelma-sicom.gricad-pages.univ-grenoble-alpes.fr/1a/3pmpols6-cours/TD_1.html
+
+---
+
+# ⌛ Reproducibility time capsule
+
+- WebAssembly is a web standard
+- Runnable for much longer than native binary packages
+
+![center h:300](https://github.com/jtpio/jobim-2024/assets/591645/4686d0f6-8c4a-4195-8420-74a71ff0b510)
 
 ---
 
@@ -383,6 +402,7 @@ https://jupyterlite.github.io/demo/
 - In-browser terminal
 - AI code completions and chat
 - Real Time Collaboration via WebRTC
+- Emscripten Forge and Conda Forge
 
 ---
 
